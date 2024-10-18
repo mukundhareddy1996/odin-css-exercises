@@ -1,0 +1,20 @@
+.odd{
+    color: #000000;
+    background-color: rgb(243, 158, 172);
+    font-family: Verdana, "DejaVu Sans",sans-serif;
+}
+
+.even.blue{
+    color:#0000ff;
+    font-size: 36px;
+}
+
+.even.green{
+    color: #000000;
+    background-color: #008000;
+    font-size: 24px;
+}
+
+#sizevariation{
+    font-size: 24px;
+}
